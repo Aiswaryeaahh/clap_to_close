@@ -27,10 +27,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/7129645a-eb13-4802-b4d5-2e8fb4ec80a4" />
+This is the 1st page wgere there is a pop up and clapping closes the pop up
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/654ae74a-87dc-432c-b64e-fdad17c7e21f" />
+
+This is after clapping.
 
 
 
