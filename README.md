@@ -21,7 +21,7 @@ I replaced a mouse click with a clap..Why go casual when you can go extra?!
 For Software:
 Html,CSS, Javascript
 
-CHECK OUT THE WEBSITE:https://clap-to-close.vercel.app/
+### check out the website : https://clap-to-close.vercel.app/
 
 ### Project Documentation
 For Software:
